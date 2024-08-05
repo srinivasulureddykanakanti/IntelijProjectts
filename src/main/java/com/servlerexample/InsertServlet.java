@@ -42,6 +42,6 @@ public class InsertServlet extends HttpServlet {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        //This is Insert servlet
+        //Hello InsertServlet World
     }
 }
