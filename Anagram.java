@@ -24,7 +24,8 @@ public class Anagram {
         Arrays.sort(charArray2);
         return Arrays.equals(charArray1, charArray2);
 
-        // Hello Anagrams, Welcome to github
+      // Hello Anagrams, Welcome to github
+
     }
 }
 
